@@ -1,5 +1,6 @@
 # Hardware Mockup
 details
+![landingpage.](landingpage.png)
 # fimio_test
 
 # build docker image
