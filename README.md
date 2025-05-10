@@ -1,6 +1,9 @@
 # Hardware Mockup
 details
+![Keypad.](dial_pad.png)
 ![landingpage.](landingpage.png)
+
+
 # fimio_test
 
 # build docker image
