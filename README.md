@@ -1,7 +1,7 @@
 # Hardware Mockup
 details
-![Keypad.](dial_pad.png)
 ![landingpage.](landingpage.png)
+![Keypad.](dial_pad.png)
 
 
 # fimio_test
